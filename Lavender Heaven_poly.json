@@ -1,0 +1,132 @@
+{
+    "name": "Lavender Heaven",
+    "description": "A theme made by Vodka Martini",
+    "authors": [
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#a297c3"
+        ],
+        "HEADER_SECONDARY": [
+            "#7c6ea7"
+        ],
+        "TEXT_NORMAL": [
+            "#a297c3"
+        ],
+        "TEXT_MUTED": [
+            "#625682"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#443a59"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#625682"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c8c8c8"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#26273b"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0a0813"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#130f20"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#130f20"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0a0813",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0a0813"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#130f20"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0a0813"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#171626"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1a1926"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7c6ea7"
+        ],
+        "TEXT_LINK": [
+            "#a297c3"
+        ],
+        "KEYBOARD": [
+            "#0a0813"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#0a0813"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#010101",
+        "PRIMARY_100": "#7c6ea7",
+        "PRIMARY_200": "#7c6ea7",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#7c6ea7",
+        "PRIMARY_400": "#26273b",
+        "PRIMARY_600": "#0a0813",
+        "PRIMARY_630": "#0a0813",
+        "PRIMARY_700": "#0a0813",
+        "PRIMARY_800": "#0a0813",
+        "BRAND_260": "#a297c3",
+        "BRAND_500": "#a297c3",
+        "BRAND_900": "#7c6ea7",
+        "YELLOW_300": "#443a59",
+        "GREEN_600": "#7c6ea7",
+        "DANGER": "#625682",
+        "RED_400": "#a297c3"
+    },
+    "spec": 2
+}
