@@ -1,0 +1,147 @@
+{
+    "name": "BetterDefault",
+    "description": "Original theme made by xRqz3r for AliucordKT, ported to RN by Vodka Martini",
+    "authors": [
+        {
+            "name": "xRqz3r",
+            "id": "235854021305303040"
+        },
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d4daef",
+            "#d4daef"
+        ],
+        "HEADER_SECONDARY": [
+            "#d4daef",
+            "#d4daef"
+        ],
+        "TEXT_NORMAL": [
+            "#e0e1e5",
+            "#e0e1e5"
+        ],
+        "TEXT_MUTED": [
+            "#6f727c",
+            "#6f727c"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#EDF0F9",
+            "#EDF0F9"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#510a32",
+            "#510a32"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c8c8c8",
+            "#c8c8c8"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6f727c",
+            "#6f727c"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#212532",
+            "#212532"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#212532",
+            "#212532"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent",
+            "transparent"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#42464d",
+            "#42464d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#717991",
+            "#717991"
+        ],
+        "KEYBOARD": [
+            "#2b3040",
+            "#2b3040"
+        ],
+        "CHANNEL_ICON": [
+            "#EDF0F9",
+            "#EDF0F9"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#2b3040",
+        "PRIMARY_100": "#d4daef",
+        "PRIMARY_200": "#d4daef",
+        "PRIMARY_300": "#b6b6b6",
+        "PRIMARY_360": "#d4daef",
+        "PRIMARY_400": "#edf0f9",
+        "PRIMARY_600": "#2b3040",
+        "PRIMARY_630": "#2b3040",
+        "PRIMARY_700": "#2b3040",
+        "PRIMARY_800": "#2b3040",
+        "BRAND_260": "#EDF0F9",
+        "BRAND_500": "#EDF0F9",
+        "BRAND_900": "#d4daef",
+        "YELLOW_300": "#d4daef",
+        "GREEN_600": "#7e849a",
+        "RED_400": "#7e849a"
+    },
+    "spec": 2
+}
