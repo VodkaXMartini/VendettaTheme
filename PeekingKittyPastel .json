@@ -1,0 +1,175 @@
+{
+    "name": "Canva6",
+    "description": "A theme made by Vodka Martini",
+    "authors": [
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+        "HEADER_SECONDARY": [
+            "#e5c1cd",
+            "#e5c1cd"
+        ],
+        "TEXT_NORMAL": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+        "TEXT_MUTED": [
+            "#c9bbc8",
+            "#c9bbc8"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#e5c1cd",
+            "#e5c1cd"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#c9bbc8",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#4d616c",
+            "#5d737e"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#5d737e",
+            "#5d737e"
+        ],
+          "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+       
+        "SCROLLBAR_THIN_THUMB": [
+            "#1a1d23",
+            "#1a1d23"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1a1d23",
+            "#1a1d23"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#4d616c",
+            "#4d616c"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b6b4c2",
+            "#b6b4c2"
+        ],
+        "TEXT_LINK": [
+            "#b6b4c2",
+            "#b6b4c2"
+        ],
+        "KEYBOARD": [
+            "#5d737e",
+            "#5d737e"
+        ],
+        "CHANNEL_ICON": [
+            "#b6b4c2",
+            "#b6b4c2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#5d737e",
+            "#5d737e"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#5d737e",
+        "PRIMARY_100": "#e5c1cd",
+        "PRIMARY_200": "#e5c1cd",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#e5c1cd",
+        "PRIMARY_400": "#c9bbc8",
+        "PRIMARY_600": "#5d737e",
+        "PRIMARY_630": "#5d737e",
+        "PRIMARY_700": "#5d737e",
+        "PRIMARY_800": "#5d737e",
+        "BRAND_260": "#f3dbcf",
+        "BRAND_500": "#f3dbcf",
+        "BRAND_900": "#e5c1cd",
+        "YELLOW_300": "#e5c1cd",
+        "GREEN_600": "#e5c1cd",
+        "DANGER": "#c9bbc8",
+        "RED_400": "#f3dbcf"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1087006908923269160/canva.png",
+        "alpha": 1.0    
+},
+   "color": "#5d737e"
+    }
