@@ -65,9 +65,7 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#2A211B"
-        ],
+       
         "BACKGROUND_MESSAGE_HOVER": [
             "#322720"
         ],
