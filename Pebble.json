@@ -2,10 +2,6 @@
     "name": "Pebble",
     "description": "A cozy theme",
     "authors": [
-        {
-            "name": "komette",
-            "id": "555686162153472000"
-        },
 
         {
             "name": "Vodka Martini",
@@ -100,7 +96,7 @@
             "#7C6766"
         ],
         "TEXT_LINK": [
-            "#8A7675"
+            "#C2A8A7"
         ],
         "TEXT_DANGER": [
             "#5A4565"
