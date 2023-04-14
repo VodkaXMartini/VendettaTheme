@@ -1,6 +1,6 @@
 {
     "name": "Pebble",
-    "description": "WIP",
+    "description": "A cozy theme",
     "authors": [
         {
             "name": "komette",
@@ -127,11 +127,11 @@
         "PRIMARY_660": "#231b27",
         "PRIMARY_700": "#312438",
         "PRIMARY_800": "#231b27",
-        "BRAND_260": "#5A4565",
+        "BRAND_260": "#D2B7AA",
         "BRAND_360": "#F4EAE5",
         "BRAND_500": "#BDA2A2",
-        "BRAND_560": "#f2d0cf",
-        "YELLOW_300": "#BDA2A2",
+        "BRAND_560": "#735682",
+        "YELLOW_300": "#735682",
         "GREEN_600": "#EFDFD7",
         "RED_400": "#BDA2A2",
         "WHITE_500": "#EFDFD7",
