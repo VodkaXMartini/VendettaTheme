@@ -161,9 +161,9 @@
     },
   
       "background": {
-    "blur": 0.1,
+    "blur": 0.8,
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1088021857690714122/kitty.png",
-    "alpha": 1.0
+    "alpha": 0.9
     },
     "color": "#4d4463"
 }
