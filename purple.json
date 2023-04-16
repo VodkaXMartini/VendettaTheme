@@ -1,0 +1,163 @@
+{
+    "name": "Purple Kitty",
+    "description": "A theme made by Vodka Martini",
+    "authors": [
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#edd49b",
+            "#edd49b"
+        ],
+        "HEADER_SECONDARY": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "TEXT_NORMAL": [
+            "#c8c8c8",
+            "#c8c8c8"
+        ],
+        "TEXT_MUTED": [
+            "#C8B68E",
+            "#C8B68E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#C8B68E",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#5A5172",
+            "#5A5172"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3e374f",
+            "#3e374f"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#3e374f",
+            "#5d737e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#69607F",
+            "#69607F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#3e374f",
+            "#3e374f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926",
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3e374f",
+            "#3e374f"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#3e374f",
+            "#3e374f"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926",
+            "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7c6ea7",
+            "#7c6ea7"
+        ],
+        "TEXT_LINK": [
+            "#a297c3",
+            "#a297c3"
+        ],
+        "KEYBOARD": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF",
+            "#BFBFBF"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#4d4463",
+    "PRIMARY_100": "#7c6ea7",
+    "PRIMARY_200": "#7c6ea7",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#7c6ea7",
+    "PRIMARY_400": "#26273b",
+    "PRIMARY_500": "#010101",
+    "PRIMARY_600": "#4d4463",
+    "PRIMARY_630": "#4d4463",
+    "PRIMARY_700": "#3e374f",
+    "PRIMARY_800": "#3e374f",
+    "BRAND_260": "#a297c3",
+    "BRAND_500": "#625682",
+    "BRAND_900": "#7c6ea7",
+    "BRAND_NEW": "#a297c3",
+    "YELLOW_300": "#8072A1",
+    "GREEN_600": "#7c6ea7",
+    "DANGER": "#625682",
+    "RED_400": "#a297c3"
+    }
+  
+}
