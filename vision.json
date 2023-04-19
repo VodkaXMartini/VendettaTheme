@@ -1,0 +1,173 @@
+{
+    "name": "Vision",
+    "description": "A theme made by Vodka Martini",
+    "authors": [
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#edd49b",
+            "#edd49b"
+        ],
+        "HEADER_SECONDARY": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "TEXT_NORMAL": [
+            "#D6D6D6",
+            "#c8c8c8"
+        ],
+        "TEXT_MUTED": [
+            "#A9966A",
+            "#C8B68E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#CFBA89",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#C8B68E",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#161519",
+            "#161519"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#282237",
+            "#29272E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0E0D10",
+            "#0E0D10"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#121215",
+            "#121215"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#504863",
+            "#58506C"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#29272E",
+            "#29272E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#161519",
+            "#222228"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#161519",
+            "#161519"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926",
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#332D42",
+            "#373147"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#29272E",
+            "#29272E"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926",
+            "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#A9966A",
+            "#d8c28f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#4B4266",
+            "#7c6ea7"
+        ],
+        "TEXT_LINK": [
+            "#a297c3",
+            "#a297c3"
+        ],
+        "KEYBOARD": [
+            "#161519",
+            "#161519"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF",
+            "#BFBFBF"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#4d4463",
+    "PRIMARY_100": "#d8c28f",
+    "PRIMARY_200": "#d8c28f",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#7c6ea7",
+    "PRIMARY_400": "#A9966A",
+    "PRIMARY_500": "#d8c28f",
+    "PRIMARY_600": "#161519",
+    "PRIMARY_630": "#282237",
+    "PRIMARY_660": "#111013",
+    "PRIMARY_700": "#161519",
+    "PRIMARY_800": "#161519",
+    "BRAND_260": "#504863",
+    "BRAND_360": "#504863",
+    "BRAND_500": "#625682",
+    "BRAND_560": "#625682",
+    "BRAND_900": "#7c6ea7",
+    "BRAND_NEW": "#a297c3",
+    "YELLOW_300": "#8072A1",
+    "GREEN_360": "#d8c28f",
+    "DANGER": "#625682",
+    "RED_400": "#a297c3"
+    },
+  
+      "background": {
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1096862893552709642/9b851517dfd4402482ceff768c79d4db.jpg",
+    "alpha": 0.7
+    },
+    "color": "#4d4463"
+}
