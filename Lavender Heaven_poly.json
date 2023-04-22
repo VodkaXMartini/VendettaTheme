@@ -57,6 +57,9 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#130f20"
         ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#C8C8C8"
+        ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0a0813"
         ],
