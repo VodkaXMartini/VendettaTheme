@@ -1,5 +1,5 @@
 {
-    "name": "Frost",
+    "name": "Katana",
     "description": "A theme made by Vodka Martini",
     "authors": [
         {
@@ -148,7 +148,7 @@
     "PRIMARY_400": "#A9966A",
     "PRIMARY_500": "#882521",
     "PRIMARY_600": "#121114",
-    "PRIMARY_630": "#282237",
+    "PRIMARY_630": "#262829",
     "PRIMARY_660": "#111013",
     "PRIMARY_700": "#161519",
     "PRIMARY_800": "#161519",
