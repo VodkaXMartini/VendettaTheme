@@ -1,0 +1,173 @@
+{
+    "name": "sky",
+    "description": "A light purple sky theme",
+    "authors": [
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#F4F4F4",
+            "#edd49b"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8c8c8",
+            "#d8c28f"
+        ],
+        "TEXT_NORMAL": [
+            "#F4F4F4",
+            "#c8c8c8"
+        ],
+        "TEXT_MUTED": [
+            "#A9966A",
+            "#C8B68E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#fbd1e6",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#d8c28f",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#fbd1e6",
+            "#d8c28f"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#D6D6D6",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#d49dea",
+            "#161519"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#B582C9",
+            "#29272E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#B582C9",
+            "#0E0D10"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#524A8F",
+            "#121215"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4D4660",
+            "#504863"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#524A8F",
+            "#29272E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#655cb0",
+            "#222228"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#655cb0",
+            "#655cb0"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#4d4463",
+            "#4d4463"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926",
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2F293D",
+            "#373147"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#d49dea",
+            "#29272E"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926",
+            "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#c8c8c8",
+            "#d8c28f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#52486F",
+            "#7c6ea7"
+        ],
+        "TEXT_LINK": [
+            "#a297c3",
+            "#a297c3"
+        ],
+        "KEYBOARD": [
+            "#161519",
+            "#161519"
+        ],
+        "CHANNEL_ICON": [
+            "#D793B5",
+            "#BFBFBF"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#4d4463",
+    "PRIMARY_100": "#52486F",
+    "PRIMARY_200": "#52486F",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#4d4463",
+    "PRIMARY_400": "#A9966A",
+    "PRIMARY_500": "#d8c28f",
+    "PRIMARY_600": "#d49dea",
+    "PRIMARY_630": "#282237",
+    "PRIMARY_660": "#111013",
+    "PRIMARY_700": "#5B539D",
+    "PRIMARY_800": "#5B539D",
+    "BRAND_260": "#504863",
+    "BRAND_360": "#504863",
+    "BRAND_500": "#625682",
+    "BRAND_560": "#d8c28f",
+    "BRAND_900": "#4d4463",
+    "BRAND_NEW": "#a297c3",
+    "YELLOW_300": "#8072A1",
+    "GREEN_360": "#d8c28f",
+    "DANGER": "#625682",
+    "RED_400": "#a297c3"
+    },
+  
+      "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1101599650282229872/f9df0ccaab2d631e9183d7bc7cab8e5b.gif",
+    "alpha": 1.0
+    },
+    "color": "#4d4463"
+}
