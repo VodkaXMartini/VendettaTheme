@@ -1,5 +1,5 @@
 {
-    "name": "sky",
+    "name": "starlight",
     "description": "A light purple sky theme",
     "authors": [
         {
@@ -23,7 +23,7 @@
             "#c8c8c8"
         ],
         "TEXT_MUTED": [
-            "#A9966A",
+            "#A580C2",
             "#C8B68E"
         ],
         "INTERACTIVE_NORMAL": [
@@ -31,7 +31,7 @@
             "#d8c28f"
         ],
         "INTERACTIVE_HOVER": [
-            "#d8c28f",
+            "#fbd1e6",
             "#d8c28f"
         ],
         "INTERACTIVE_ACTIVE": [
@@ -39,7 +39,7 @@
             "#d8c28f"
         ],
         "INTERACTIVE_MUTED": [
-            "#D6D6D6",
+            "#2E293F",
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
@@ -55,7 +55,7 @@
             "#0E0D10"
         ],
         "BACKGROUND_TERTIARY": [
-            "#524A8F",
+            "#4D4786",
             "#121215"
         ],
         "BACKGROUND_ACCENT": [
@@ -63,7 +63,7 @@
             "#504863"
         ],
         "BACKGROUND_FLOATING": [
-            "#524A8F",
+            "#454078",
             "#29272E"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
@@ -75,23 +75,23 @@
             "#655cb0"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#4d4463",
+            "#514a8d",
             "#4d4463"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1F1F2B",
+            "#514a8d",
             "#1F1F2B"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1a1926",
+            "#514a8d",
             "#1a1926"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1F1F2B",
+            "#514a8d",
             "#1F1F2B"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2F293D",
+            "#4D4660",
             "#373147"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
@@ -119,11 +119,11 @@
             "#d8c28f"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#111111",
+            "#2E293F",
             "#111111"
         ],
         "CHANNELS_DEFAULT": [
-            "#52486F",
+            "#2E293F",
             "#7c6ea7"
         ],
         "TEXT_LINK": [
@@ -131,7 +131,7 @@
             "#a297c3"
         ],
         "KEYBOARD": [
-            "#161519",
+            "#9874b5",
             "#161519"
         ],
         "CHANNEL_ICON": [
@@ -141,27 +141,27 @@
     },
     "rawColors": {
     "PRIMARY_DARK": "#4d4463",
-    "PRIMARY_100": "#52486F",
+    "PRIMARY_100": "#2E293F",
     "PRIMARY_200": "#52486F",
-    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_300": "#4d4463",
     "PRIMARY_360": "#4d4463",
-    "PRIMARY_400": "#A9966A",
-    "PRIMARY_500": "#d8c28f",
+    "PRIMARY_400": "#D793B5",
+    "PRIMARY_500": "#2E293F",
     "PRIMARY_600": "#9874b5",
-    "PRIMARY_630": "#282237",
-    "PRIMARY_660": "#111013",
+    "PRIMARY_630": "#4D4660",
+    "PRIMARY_660": "#4D4660",
     "PRIMARY_700": "#5B539D",
     "PRIMARY_800": "#5B539D",
     "BRAND_260": "#504863",
     "BRAND_360": "#504863",
     "BRAND_500": "#625682",
-    "BRAND_560": "#d8c28f",
+    "BRAND_560": "#D793B5",
     "BRAND_900": "#4d4463",
     "BRAND_NEW": "#a297c3",
     "YELLOW_300": "#8072A1",
-    "GREEN_360": "#d8c28f",
+    "GREEN_360": "#D793B5",
     "DANGER": "#625682",
-    "RED_400": "#a297c3"
+    "RED_400": "#D793B5"
     },
   
       "background": {
