@@ -122,6 +122,9 @@
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#74646d"
+        ],
+        "BG_BACKDROP": [
+            "transparent"
         ]
     },
     "rawColors": {
@@ -134,6 +137,7 @@
         "PRIMARY_400": "#735682",
         "PRIMARY_600": "#281f2b",
         "PRIMARY_630": "#231b27",
+        "PRIMARY_645": "#74646d",
         "PRIMARY_660": "#231b27",
         "PRIMARY_700": "#312438",
         "PRIMARY_800": "#231b27",
