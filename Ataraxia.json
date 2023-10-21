@@ -159,7 +159,7 @@
         },
         "plus":{
        "version":"0",
-       "iconpack":"rosiecord-plumpy",
+        "customOverlays": true,
        "icons":{
                 "ic_new_pins":["#e64553"],
                 "StatusStreaming": ["#7e64fb"],
