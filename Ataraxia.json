@@ -1,6 +1,6 @@
 {
     "name": "Ataraxia",
-    "description": "A cozy theme",
+    "description": "A state of serene calmness",
     "authors": [
 
         {
@@ -145,7 +145,7 @@
         "BRAND_360": "#F4EAE5",
         "BRAND_500": "#74646d",
         "BRAND_560": "#735682",
-        "YELLOW_300": "#735682",
+        "YELLOW_300": "#D2B7AA",
         "GREEN_600": "#EFDFD7",
         "RED_400": "#BDA2A2",
         "WHITE_500": "#EFDFD7",
