@@ -39,7 +39,7 @@
     "#403d52"
     ],
     "BACKGROUND_PRIMARY": [
-    "#291c35"
+    "#31213e"
     ],
     "BACKGROUND_SECONDARY": [
     "#191724"
@@ -51,7 +51,7 @@
     "#291c35"
     ],
     "BG_BASE_PRIMARY": [
-    "#5a416e"
+    "#31213e"
     ],
     "BG_BASE_SECONDARY": [
     "#6f5485"
@@ -72,7 +72,7 @@
     "#291c35"
     ],
     "CHANNEL_ICON": [
-    "#7f7a9d"
+    "#6e6a86"
     ],
     "CHANNELS_DEFAULT": [
     "#908caa"
@@ -132,16 +132,16 @@
     "#f6c177"
     ],
     "TEXT_MUTED": [
-    "#6e6a86"
+    "#D2B7AA"
     ],
     "TEXT_NORMAL": [
     "#E7D6CE"
     ],
     "TEXT_PRIMARY": [
-    "#e0def4"
+    "#F4EAE5"
     ],
     "TEXT_SECONDARY": [
-    "#908caa"
+    "#D2B7AA"
     ]
   },
   "rawColors": {
@@ -151,16 +151,16 @@
     "BRAND_500": "#74646d",
     "BRAND_560": "#735682",
     "PLUM_1": "#e0def4",
-    "PLUM_10": "#6e6a86",
+    "PLUM_10": "#c1bfd1",
     "PLUM_11": "#191724",
-    "PLUM_13": "#31748f50",
+    "PLUM_13": "#191724",
     "PLUM_15": "#26233a",
     "PLUM_16": "#a79ab3",
-    "PLUM_17": "#291c35",
+    "PLUM_17": "#31213e",
     "PLUM_18": "#26233a",
     "PLUM_19": "#908caa",
-    "PLUM_20": "#574168",
-    "PLUM_21": "#31748f50",
+    "PLUM_20": "#4b385a",
+    "PLUM_21": "#191724",
     "PLUM_22": "#26233a",
     "PLUM_24": "#26233a",
     "PLUM_25": "#9ccfd8",
@@ -256,7 +256,7 @@
  },
   "background": {
       "alpha": 5,
-      "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1197622341849596064/1000013594-01.jpg?ex=65bbefb9&is=65a97ab9&hm=88c0aa539efe18463ce69da75ef6523673ead83f03f8bc59a95ca7425a9ca044&"
+      "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1197786544526856223/1000013832-01.jpg?ex=65bc88a6&is=65aa13a6&hm=79f0695cf967900987893284298012dc6921c45908c87dbace0ebb494bb42ece&"
   },
   "plus":{
      "version":"0",
