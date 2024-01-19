@@ -260,6 +260,7 @@
   },
   "plus":{
      "version":"0",
+     "iconpack":"rosiecord-plumpy",
      "customOverlays": true,
      "icons":{
         "AccessibilityIcon": "#a79ab3",
