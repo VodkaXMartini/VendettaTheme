@@ -1,5 +1,5 @@
 {
-    "name": "PurpleGalaxy",
+    "name": "Orchid Love",
     "description": "Theme made with love",
     "authors": [
       {
@@ -49,7 +49,7 @@
         "#161519"
     ],
     "BACKGROUND_SECONDARY": [
-        "#916FAC",
+        "#5B539D",
         "#29272E"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -129,7 +129,7 @@
         "#111111"
     ],
     "CHANNELS_DEFAULT": [
-        "#2E293F",
+        "#5B539D",
         "#7c6ea7"
     ],
     "TEXT_LINK": [
@@ -187,17 +187,17 @@
       "#F4EAE5"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#26233a"
+      "#6c63b8"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#21202e"
+      "#5B539D"
       ],
       "TEXT_DANGER": [
       "#eb6f92"
       ],
-        "BG_BACKDROP": [
-          "#04010173"
-      ]
+      "BG_BACKDROP": [
+        "#21202e50"
+    ]
     },
     "rawColors": {
       "PRIMARY_DARK": "#4d4463",
@@ -225,7 +225,7 @@
       "BLUE_345": "#a79ab3",
       "PLUM_1": "#e0def4",
       "PLUM_10": "#a79ab3",
-      "PLUM_11": "#191724",
+      "PLUM_11": "#fbd1e6",
       "PLUM_13": "#191724",
       "PLUM_15": "#26233a",
       "PLUM_16": "#a79ab3",
@@ -238,7 +238,7 @@
       "PLUM_24": "#5B539D",
       "PLUM_25": "#9ccfd8",
       "PLUM_3": "#5B539D",
-      "PLUM_4": "#31748f50",
+      "PLUM_4": "#5B539D",
       "PLUM_6": "#f1f3f5",
       "PLUM_9": "#e0def4",
       "PRIMARY_230": "#5B539D",
