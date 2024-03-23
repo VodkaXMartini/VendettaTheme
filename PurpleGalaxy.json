@@ -194,6 +194,9 @@
       ],
       "TEXT_DANGER": [
       "#eb6f92"
+      ],
+        "BG_BACKDROP": [
+          "#04010173"
       ]
     },
     "rawColors": {
