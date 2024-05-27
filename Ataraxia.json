@@ -127,6 +127,9 @@
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
           "#74646d"
       ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#1F1823"
+        ],
       "BG_BACKDROP": [
           "#04010173"
       ]
